@@ -1,5 +1,5 @@
 body{
-  background-image : url("C:\Users\Anjany\OneDrive\Desktop\calculator-react\calculator\src\components\bc.jpg");
+  background-image : url('./bc.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
