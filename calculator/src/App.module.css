@@ -1,22 +1,19 @@
+body{
+  background-image : url("C:\Users\Anjany\OneDrive\Desktop\calculator-react\calculator\src\components\bc.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
 .calculator{
-  border: 1px solid rgb(67, 52, 52);
-  width : 200px;
-  border-radius: 5px;
+  width : 300px;
+  background-color: rgba(244, 244, 244, 0.374);
+  border-radius: 10px;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  margin-block-start: 2em;
+  max-inline-size: 22rem;
+  overflow: hidden;
+  color: hsl(202, 11%, 29%);
+  
 }
-.display{
-  margin : 10px;
-  width : 175px;
-  font-size: 25px;
 
-}
-.buttonsContainer{
-  display : flex;
-  justify-content: center;
-  flex-wrap: wrap;
-
-}
-.button{
-  width : 45px;
-  height : 45px;
-  margin : 3px;
-}

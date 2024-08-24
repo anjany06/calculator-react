@@ -1,6 +1,10 @@
 .display{
   margin : 10px;
-  width : 175px;
+  border : 1.5px solid black;
+  background-color: rgba(0, 0, 0);
+  color: rgb(193, 193, 193);;
+  border-radius: 5px;
+  width : 260px;
   font-size: 25px;
-
+  padding : 5px;
 }
